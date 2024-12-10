@@ -96,6 +96,8 @@ dependencies {
 
 
     val media3_version = "1.5.0"
+
+    implementation("io.sanghun:compose-video:1.2.0")
     implementation("androidx.media3:media3-exoplayer:1.5.0")
     implementation("androidx.media3:media3-exoplayer-dash:1.5.0")
     implementation("androidx.media3:media3-ui:1.5.0")
